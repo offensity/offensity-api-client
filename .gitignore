@@ -1,0 +1,8 @@
+__pycache__
+.cache/
+.idea/
+venv/
+
+# created files during local testing
+src/offensity_api_reports_*
+src/offensity_api_scanprofiles_*
