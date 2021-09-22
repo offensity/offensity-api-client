@@ -8,7 +8,7 @@ log = logging.getLogger(__name__)
 
 
 class OffensityApiClient:
-    API_ROOT_URL = "https://staging-reporting.offensity.com/api/v1/"
+    API_ROOT_URL = "https://reporting.offensity.com/api/v1/"
     MAX_PAGE_SIZE = 100
 
     def __init__(self, token: str):
