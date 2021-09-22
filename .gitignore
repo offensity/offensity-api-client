@@ -4,5 +4,4 @@ __pycache__
 venv/
 
 # created files during local testing
-src/offensity_api_reports_*
-src/offensity_api_scanprofiles_*
+*.json
